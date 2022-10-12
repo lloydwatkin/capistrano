@@ -9,6 +9,8 @@ This list is neither complete nor audited in any way.
 You can help us expanding this list by sending us a pull request on
 <a href="https://github.com/capistrano/capistrano/pulls">GitHub</a>.
 
+<div class="github-widget" data-repo="olioex/capistrano-cloudwatch"></div>
+
 <div class="github-widget" data-repo="capistrano-plugins/capistrano-postgresql"></div>
 
 <div class="github-widget" data-repo="capistrano-plugins/capistrano-unicorn-nginx"></div>
